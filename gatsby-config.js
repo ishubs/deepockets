@@ -32,14 +32,8 @@ module.exports = {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: `DM Sans`,
-            variants: [`400`, `500`, `700`],
-          },
-          {
-            family: `Playfair Display`,
-            variants: [`400`, `500`, `700`],
-          },
+  'DM Sans\: 400,500,700',
+  'Playfair Display\: 400,500,700'
         ],
       },
     },
