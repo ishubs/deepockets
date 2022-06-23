@@ -11,7 +11,7 @@ export default function Logo() {
         variant: 'links.logo',
       }}
     >
-      <Image width="186" height="37" src={logo} alt="startup landing logo" />
+      <Image width="186" height="37" src={logo} alt="Deepockets logo" />
     </Link>
   );
 }
