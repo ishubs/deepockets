@@ -37,7 +37,7 @@ const Banner = () => {
         <Grid sx={styles.grid}>
           <Box sx={styles.content}>
             <Heading as="h3">
-              Learn how to work on projects that pay $30+/hour
+              Learn how to work on projects that pay $20+/hour
             </Heading>
             <Text as="p">
               We help top 1% students build skills and work with foreign clients to get highly paid
